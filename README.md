@@ -25,9 +25,9 @@ The modular structure makes it easy to replace, extend, or independently test ea
 
 The Bayesian calibration approach follows the standard model:
 
-\[
+$$
 y = \eta(x, \theta) + \delta(x) + \epsilon
-\]
+$$
 
 where:
 - \( y \) = observed data  
