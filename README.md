@@ -30,10 +30,10 @@ y = \eta(x, \theta) + \delta(x) + \epsilon
 $$
 
 where:
-- \( y \) = observed data  
-- \( \eta(x, \theta) \) = computer model output (emulated via a GP)  
-- \( \delta(x) \) = model discrepancy term  
-- \( \epsilon \) = observation noise  
+-  $y$ = observed data  
+- $\eta(x, \theta)$ = computer model output (emulated via a GP)  
+- $\delta(x)$ = model discrepancy term  
+- $\epsilon$ = error term  
 
 Through calibration we want to infer the posterior distribution and uncertainty of the unknown parameters \( \theta \) using Metropolis Hastings MCMC sampling.
 
