@@ -35,7 +35,7 @@ where:
 - $\delta(x)$ = model discrepancy term  
 - $\epsilon$ = error term  
 
-Through calibration we want to infer the posterior distribution and uncertainty of the unknown parameters \( \theta \) using Metropolis Hastings MCMC sampling.
+Through calibration we want to infer the posterior distribution and uncertainty of the unknown parameters $\theta$ using Metropolis Hastings MCMC sampling.
 
 ---
 
