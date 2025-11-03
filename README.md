@@ -1,5 +1,3 @@
-# GPs_and_DeepGPs_for_Emulation_and_Calibration
-
 This repository is under construction and will contain all code files for my Master's research project. For now, it only contains a simulated example.
 
 # Modularised Bayesian Calibration with Gaussian Process Emulator
